@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Local Events Hub",
+    "slug": "local-events-hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "local-events-hub",
+    "android": {
+      "package": "com.localeventshub.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c1df8c2a-f636-4258-b914-f587cab935dd"
+      }
+    }
+  }
+}

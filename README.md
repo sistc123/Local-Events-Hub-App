@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local Events Hub
 
 ## 1. Project Overview
@@ -1173,3 +1174,6 @@ with your actual GitHub repository.
 2. Replace the **Team Roles and Contributions** table with your actual member names and actual contributions. **Do not leave invented roles/names in the final submission.**
 
 3. Check the API routes against your final backend before submission, especially the **comment endpoints**, because those should match the exact routes in your `commentRoutes.js`.
+=======
+# Local-Events-Hub-App
+>>>>>>> 7d4f450f56b7c6ad3abef84728fcbc96e6819760
